@@ -1,0 +1,102 @@
+{
+    "name": "Teles",
+    "photo": "https://github.dev/TelesNascimento25/Portifolio/blob/4820b45c82bf60a10f59169ad1a07f8d02dbb8f3/assets/img/Foto%20Teles.png",
+    "job": "Desenvolvedor Fullstack jr.",
+    "location": "Fortaleza - CE",
+    "phone": "(86) 99566 - 3000",
+    "email": "darlyssonteles98@outlook.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Nodejs",
+          "logo": "https://raw.githubusercontent.com/TelesNascimento25/Portifolio/main/data/imgs/nodejs.png"
+        },
+        {
+          "name": "Java",
+          "logo": "https://github.dev/TelesNascimento25/Portifolio/blob/4820b45c82bf60a10f59169ad1a07f8d02dbb8f3/data/imgs/java.png"
+        },
+        {
+          "name": "Postgresql",
+          "logo": "https://github.dev/TelesNascimento25/Portifolio/blob/4820b45c82bf60a10f59169ad1a07f8d02dbb8f3/data/imgs/mysql.png"
+        },
+        {
+          "name": "React",
+          "logo": "https://github.dev/TelesNascimento25/Portifolio/blob/4820b45c82bf60a10f59169ad1a07f8d02dbb8f3/data/imgs/react.png"
+        },
+        {
+          "name": "Git",
+          "logo": "https://github.dev/TelesNascimento25/Portifolio/blob/4820b45c82bf60a10f59169ad1a07f8d02dbb8f3/data/imgs/git.png"
+        },
+        {
+          "name": "Angular",
+          "logo": "https://github.dev/TelesNascimento25/Portifolio/blob/4820b45c82bf60a10f59169ad1a07f8d02dbb8f3/data/imgs/angular.png"
+        }
+        {
+          "name": "Spring",
+          "logo": "https://github.dev/TelesNascimento25/Portifolio/blob/4820b45c82bf60a10f59169ad1a07f8d02dbb8f3/data/imgs/spring.png"
+        }
+      ],
+      "softSkills": [
+        "Organização",
+        "Liderança",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização",
+        "Hardworker"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (Fluente)"
+    ],
+    "portfolio": [
+      
+      {
+        "name": "Projeto Criando uma Pokedéx",
+        "url": "https://github.com/TelesNascimento25/Pokedex",
+        "github": true
+      },
+      {
+        "name": "Projeto criando o site do HBOMAX",
+        "url": "https://github.com/TelesNascimento25/HBOMAX",
+        "github": true
+      },
+      {
+        "name": "Projeto Criando o site do Discord",
+        "url": "https://github.com/TelesNascimento25/CSS-PROJETO-DISCORD",
+        "github": true
+      },
+      {
+        "name": "Projeto para a Empresa que eu Trabalho, Landing Page",
+        "url": "https://github.com/TelesNascimento25/CSSProjeto1",
+        "github": true
+      },
+      {
+        "name": "Projeto Clone do Youtube",
+        "url": "https://github.com/TelesNascimento25/CSS-PROJETO-YOUTUBE",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Analista de Dados | Backoffice / Aplix Consultoria de Investimentos",
+        "period": "2022 - até o momento",
+        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      },
+      {
+        "name": "Analista de Seo / Mobills",
+        "period": "2022 - 2022",
+        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      },
+      {
+        "name": "Gerente de Contas Pessoa Física - Jurídica / Santander",
+        "period": "2020 - 2022",
+        "description": "Foi um prazer poder contribuir com a situação financeira de tantos brasileiros."
+      }
+      {
+        "name": "Daily Banker / XP Investimentos",
+        "period": "2018 - 2020",
+        "description": "Muito bom poder contribuir com os investimentos e a educação financeira de tantas pessoas."
+      }
+    ]
+  }
